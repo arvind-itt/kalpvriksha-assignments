@@ -1,5 +1,4 @@
-#include <stdio.h>
-
+#include<stdio.h>
 int isPalindrome(char* str) {
     char* end_ptr = str;
     while (*end_ptr != '\0') {
